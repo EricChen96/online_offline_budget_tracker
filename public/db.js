@@ -32,7 +32,6 @@ function saveRecord(record) {
     store.add(record);
 }
 
-checkDatabase();
 
 function checkDatabase() {
     // open a transaction on your pending db
