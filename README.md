@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # online_offline_budget_tracker
  
-![Online-offline Budget Tracker](./assets/workout_tracker_screenshot.png)
+![Online-offline Budget Tracker](./assets/screenshot.png)
 
 [Link to Github repository](https://github.com/EricChen96/online_offline_budget_tracker) <br>
 [Link to site](https://pwa-budget-tracker-ericchen96.herokuapp.com/) <br>
